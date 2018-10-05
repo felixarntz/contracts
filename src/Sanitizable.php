@@ -1,6 +1,6 @@
 <?php
 /**
- * Class FelixArntz\Contracts\Sanitizable
+ * Interface FelixArntz\Contracts\Sanitizable
  *
  * @package FelixArntz\Contracts
  * @license GNU General Public License, version 2

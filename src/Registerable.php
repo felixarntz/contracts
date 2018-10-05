@@ -1,6 +1,6 @@
 <?php
 /**
- * Class FelixArntz\Contracts\Registerable
+ * Interface FelixArntz\Contracts\Registerable
  *
  * @package FelixArntz\Contracts
  * @license GNU General Public License, version 2

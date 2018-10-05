@@ -1,6 +1,6 @@
 <?php
 /**
- * Class FelixArntz\Contracts\Schema
+ * Interface FelixArntz\Contracts\Schema
  *
  * @package FelixArntz\Contracts
  * @license GNU General Public License, version 2

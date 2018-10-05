@@ -1,6 +1,6 @@
 <?php
 /**
- * Class FelixArntz\Contracts\Formatable
+ * Interface FelixArntz\Contracts\Formatable
  *
  * @package FelixArntz\Contracts
  * @license GNU General Public License, version 2

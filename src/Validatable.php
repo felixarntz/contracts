@@ -1,6 +1,6 @@
 <?php
 /**
- * Class FelixArntz\Contracts\Validatable
+ * Interface FelixArntz\Contracts\Validatable
  *
  * @package FelixArntz\Contracts
  * @license GNU General Public License, version 2

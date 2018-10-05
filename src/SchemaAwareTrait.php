@@ -1,6 +1,6 @@
 <?php
 /**
- * Class FelixArntz\Contracts\SchemaAwareTrait
+ * Trait FelixArntz\Contracts\SchemaAwareTrait
  *
  * @package FelixArntz\Contracts
  * @license GNU General Public License, version 2
