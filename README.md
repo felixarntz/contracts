@@ -1,7 +1,7 @@
-[![Build Status](https://api.travis-ci.org/felix-arntz/contracts.png?branch=master)](https://travis-ci.org/felix-arntz/contracts)
-[![Code Climate](https://codeclimate.com/github/felix-arntz/contracts/badges/gpa.svg)](https://codeclimate.com/github/felix-arntz/contracts)
-[![Latest Stable Version](https://poser.pugx.org/felix-arntz/contracts/version)](https://packagist.org/packages/felix-arntz/contracts)
-[![License](https://poser.pugx.org/felix-arntz/contracts/license)](https://packagist.org/packages/felix-arntz/contracts)
+[![Build Status](https://api.travis-ci.org/felixarntz/contracts.png?branch=master)](https://travis-ci.org/felixarntz/contracts)
+[![Code Climate](https://codeclimate.com/github/felixarntz/contracts/badges/gpa.svg)](https://codeclimate.com/github/felixarntz/contracts)
+[![Latest Stable Version](https://poser.pugx.org/felixarntz/contracts/version)](https://packagist.org/packages/felixarntz/contracts)
+[![License](https://poser.pugx.org/felixarntz/contracts/license)](https://packagist.org/packages/felixarntz/contracts)
 
 # Contracts
 
